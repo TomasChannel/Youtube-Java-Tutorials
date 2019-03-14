@@ -1,20 +1,20 @@
 # Tomas' Channel - Java Tutorials
-# The Tutorials I make are based off a JAVA paper I did at University
+The Tutorials I make are based off a JAVA paper I did at University
 
-# BEFORE YOU START BE SURE TO SUBSCRIBE - www.youtube.com/TomasChannel?sub_confirmation=1
+BEFORE YOU START BE SURE TO SUBSCRIBE - www.youtube.com/TomasChannel?sub_confirmation=1
 
-# Welcome
+Welcome
 Oh so you want to learn java, well I guess you have come to the right place.
 
-# Introduction
+Introduction
 My name is Tomas and you're probably reading this because you're watching one of my tutorials. I am a Computer Science and Information and Technology Management Major. So I like to think you are in safe hands.
 
-# Tutorial Outcome - 
+Tutorial Outcome - 
   An introduction to object-oriented and concurrent programming. 
   You will learn fundamental skills in object-oriented software development, GUI programming and application-level multithreading.
   You will become confident and fluent with the Java language.
 
-# Breakdown of what you will learn:
+Breakdown of what you will learn:
   -paradigm, introducing objects,  methods, classes, interfaces, class hierarchies. 
   -Information hiding, abstraction, programming to interfaces, and enforcement of design features such as:
   ---Visibility qualifiers, constructors, constants, sealed classes, abstract classes and interfaces.
@@ -29,10 +29,10 @@ My name is Tomas and you're probably reading this because you're watching one of
   -----locks, executors, thread pools, and concurrent collections.
   ---Event dispatching thread, worker threads and background tasks, tasks with interim results.
 
- # Summary
+Summary
 By the end of my tutorials you will be profisent in the programming language "JAVA"
 
- # Tutorial Plan (Still being made) :
+Tutorial Plan (Still being made) :
 Tutorial 0 - Introduction to java
     LINK - 
 Tutorial 1 - 
