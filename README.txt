@@ -1,12 +1,13 @@
 # Tomas' Channel - Java Tutorials
+
 The Tutorials I make are based off a JAVA paper I did at University
 
-BEFORE YOU START BE SURE TO SUBSCRIBE - www.youtube.com/TomasChannel?sub_confirmation=1
+*** BEFORE YOU START BE SURE TO SUBSCRIBE - www.youtube.com/TomasChannel?sub_confirmation=1 ***
 
-Welcome
+Welcome:
 Oh so you want to learn java, well I guess you have come to the right place.
 
-Introduction
+Introduction:
 My name is Tomas and you're probably reading this because you're watching one of my tutorials. I am a Computer Science and Information and Technology Management Major. So I like to think you are in safe hands.
 
 Tutorial Outcome -
