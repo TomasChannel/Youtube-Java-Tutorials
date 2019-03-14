@@ -31,7 +31,7 @@ Breakdown of what you will learn:
   ---Event dispatching thread, worker threads and background tasks, tasks with interim results.
 
 Summary
-By the end of my tutorials you will be profisent in the programming language "JAVA"
+By the end of my tutorials you will be proficient in the programming language "JAVA"
 
 Tutorial Plan (Still being made) :
 Tutorial 0 - Introduction to java
