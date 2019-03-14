@@ -9,7 +9,7 @@ Oh so you want to learn java, well I guess you have come to the right place.
 Introduction
 My name is Tomas and you're probably reading this because you're watching one of my tutorials. I am a Computer Science and Information and Technology Management Major. So I like to think you are in safe hands.
 
-Tutorial Outcome - 
+Tutorial Outcome -
   An introduction to object-oriented and concurrent programming. 
   You will learn fundamental skills in object-oriented software development, GUI programming and application-level multithreading.
   You will become confident and fluent with the Java language.
