@@ -34,27 +34,40 @@ Summary
 By the end of my tutorials you will be proficient in the programming language "JAVA"
 
 Tutorial Plan (Still being made) :
-Tutorial 0 - Introduction to java
-    LINK - 
-Tutorial 1 - 
-    LINK - 
-Tutorial 2 -
-    LINK - 
-Tutorial 3 - 
-    LINK - 
-Tutorial 4 - 
-    LINK - 
-Tutorial 5 - 
-    LINK - 
-Tutorial 6 -
-    LINK - 
-Tutorial 7 - 
-    LINK - 
-Tutorial 8 - 
-    LINK - 
-Tutorial 9 - 
-    LINK - 
-  More soon...
+
+In this file I will refer to Youtube videos as :lessons.
+
+Learning the Foundation of Java in 22 videos.
+Lession 00 : Introduction To java & Setting up java
+Lession 01 : Creating your first ever program
+Lession 02 : Learning the basics of varables
+Lession 03 : Learning how use System.out.print() to its full potential
+Lession 04 : Learning How to take input from the keyboard or a file
+Lession 05 : Learning how to make/use basic methods
+Lession 06 : Learning how to use if loops
+Lession 07 : Learning how to use the ? Operator loops
+Lession 08 : Learning how to use switch statements
+Lession 09 : Learning how to use for loops
+Lession 10 : Learning how to use while
+Lession 11 : Learning how to use do-while
+Lession 12 : Learning how to use nest various loops 
+Lession 13 : How to minipulate Strings
+Lession 14 : 15 popular methods you NEED to know
+Lession 15 : Learning how to do Method Overloading
+Lession 16 : Learning what Primitive and Refrence types are
+Lession 17 : Learning how to make and use Arrays
+Lession 18 : Learning how to make and use Multidimensional Arrays 
+Lession 19 : Learning how to make and use ArraysLists
+Lession 20 : ArrayLists VS Arrays
+Lession 21 : Learning how to make and use Wrapper Classes
+
+Lession 22 : This lession is a test. 
+
+Once complete lession 22 you will be able to download a certificate that you have finished my course (Good for a CV)
+
+Once you have finished all of the lessions it is fair to say that you have a good foundation into all the basic aspects of java.
+
+Example of the vertification you will get - https://gyazo.com/3afd554ddcf487d60aeb3586318a8125
 
  # My Social Medias:
 Youtube - www.youtube.com/tomaschannel
