@@ -72,7 +72,7 @@ Example of the vertification you will get - https://gyazo.com/3afd554ddcf487d60a
  # My Social Medias:
 Youtube - www.youtube.com/tomaschannel
 Twitter - www.twitter.com/Tomas_Channel
-Instagram - soon.....................
+Instagram - www.instagram.com/Tomas_Channel/
 Github - www.github.com/TomasChannel
 Facebook - www.facebook.com/TomasEverwing
 Twitch - www.twitch.tv/Tomas_Channel
