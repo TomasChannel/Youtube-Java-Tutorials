@@ -1,39 +1,13 @@
-# LESSON 1 - INTRODUCTION
+# LESSON 0 - Downloading JAVA, VSC and setting up the Java PATH
 
 Remember, before you can run you need to learn how to walk.
 or
 You can't learn shortcuts if you don't know the long way, you'll get lost.
 
-Java programs have to be compiled before they can be run. 
-If you’re using an IDE like Eclipse or Netbeans you might not need to do this.
-
-How do add java to your computers paths:
--Open Control Panel, then System
--"Advanced System Settings"
--"Environment variables"
--Add a new "System Variable"
--Name it (e.g. "0java"). The "Value" is to the installation location of the Java Development Kit 
--Something like C:\Program Files\Java\jdk1.8.0_71
----That’s for Java 8, update 71 (for some reason Java likes to add a 1. before the actual version number. So Java 1.8 is really Java 
-   version 8 and 1.7 would be version 7)
--Now edit the "path" system variable.
--Click new, then type %VARIABLE_NAME%\bin 
----My example would be %0java%\bin
--Close and reopen command prompt and now the javac command should work
-
-TO COMPILE & RUN:
--Find your .java source file in command prompt
--type "javac" then the name of the file:  "javac MyProgram.java"
--Then "java" then the class name with no extension:   "java MyProgram"
-
-how do triverse cmd (For windows, google to find mac ect....):
-"cd .." -> will take you back one step in the file path
-"d:" -> will take you to the D drive but will only work if all file explorers are closed (Change the letter to the wanted drive letter)
-"cd "file path"" -> will take you to that folder
-"dir" -> will show all files in the folder you're in
-
 Resources:
-Download java - https://www.java.com/en/download/
+Download java - https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+How to set up path - https://www.java.com/en/download/help/path.xml
+Download Visual Studio Code - https://code.visualstudio.com/docs/?dv=win
 
 Youtube - www.youtube.com/tomaschannel
 Twitter - www.twitter.com/Tomas_Channel
