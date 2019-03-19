@@ -78,4 +78,4 @@ Facebook - www.facebook.com/TomasEverwing
 Twitch - www.twitch.tv/Tomas_Channel
 Discord Server - www.discord.gg/VACD4Rv
 DiscordName - "Tomas#6175"
-sOuNdcLOuD- soundcloud.com/Watermelon-Slice
+sOuNdcLOuD- www.soundcloud.com/Watermelon-Slice
